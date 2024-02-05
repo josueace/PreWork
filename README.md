@@ -33,6 +33,10 @@ chegg.com
 1. its interactive student experience
 2. its expert recommendation on solution to problems
 
+Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
+
+One of my app ideas is the renovation of note taking apps. It is not a new idea but more of an improvement to already existing technology. We have seen the use of the iPad with the apple pencil, and the many note taking platforms. I would like to perfect note taking apps, until the use of regular paper notes is no more. The app will be available across all platforms. Users can decide wether to make their individual notes public or private. Also users will be able to see other users notes and interact with each other.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
